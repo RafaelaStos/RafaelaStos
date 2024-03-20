@@ -6,9 +6,10 @@
   <a href="https://github.com/RafaelaStos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelaStos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaStos&layout=compact&langs_count=7&theme=radical"/>
-   
+   <img height="250em" src="https://github.com/RafaelaStos/RafaelaStos/blob/main/.github/workflows/octocat-1710955137040-Photoroom.png-Photoroom.png?raw=true)"/>
+    
   ![snake gif](https://github.com/RafaelaStos/RafaelaStos/blob/output/github-contribution-grid-snake-dark.svg)
-  ![Avatar]( https://github.com/RafaelaStos/RafaelaStos/blob/main/.github/workflows/octocat-1710955137040-Photoroom.png-Photoroom.png?raw=true)
+  
 
  
 </div>
